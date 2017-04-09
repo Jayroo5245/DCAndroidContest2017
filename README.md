@@ -6,9 +6,9 @@ Contest Rules:
 
 From April 7th 2017 until May 23rd 2017
 
-* Follow the [DCAndroid twitter account] (https://twitter.com/DCAndroid)
+* Follow the [DCAndroid twitter account](https://twitter.com/DCAndroid)
 * Tweet something clever (Please) and include #DCAndroidContest, @DCAndroid and @AnDevCon in the body of the tweet. Obviously the more tweets you send the better.
-* Whichever twitter user gets the most tweets, likes and retweets will win a Free ticket to [AnDevCon DC in July 2017] (http://www.andevcon.com/dc2017/registrationdetails). We will aggregate all tweets, likes and retweets so feel free to send as many as you like.
+* Whichever twitter user gets the most tweets, likes and retweets will win a Free ticket to [AnDevCon DC in July 2017](http://www.andevcon.com/dc2017/registrationdetails). We will aggregate all tweets, likes and retweets so feel free to send as many as you like.
 * Prizes must be claimed in person at the DCAndroid meetup in May 2017.
 
 Disclaimer:
@@ -21,7 +21,7 @@ In addition **do not!** use any bots or other software to increase your tweets. 
 Eligibility:
 ------------
 
-This Contest is open only to those who follow the rules sign up at the [Campaign URL] and who are [years of age or older] as of the date of entry.The Campaign is only open to legal residents of [list eligible countries and/or states], and is void where prohibited by law. Employees of [your company name], its affiliates, subsidiaries, advertising and promotion agencies, and suppliers, (collectively the “Employees”), and immediate family members and/or those living in the same household of Employees are not eligible to participate in the Campaign. The Campaign is subject to all applicable federal, state, and local laws and regulations. Void where prohibited.
+This Contest is open only to those who follow the rules and who are 18 years old as of the date of entry.The contest is only open to legal residents of the United States, and is void where prohibited by law. Employees of [DCAndroid Meetup Group](https://www.meetup.com/DCAndroid/), its affiliates, subsidiaries, advertising and promotion agencies, and suppliers, (collectively the “Employees”), and immediate family members and/or those living in the same household of Employees are not eligible to participate in the contest. The contest is subject to all applicable federal, state, and local laws and regulations. Void where prohibited.
 
 Agreement to Rules: 
 ------------
@@ -31,7 +31,7 @@ By participating, the Contestant (“You”) agree to be fully unconditionally b
 Prizes: 
 ------------
 
-The Winner(s) of the contest (the “Winner”) will receive one *FREE* ticket to [AnDevCon DC in July 2017] (http://www.andevcon.com/dc2017/registrationdetails). Actual/appraised value may differ at time of prize award. The specifics of the prize shall be solely determined by [DCAndroid Meetup Group](https://www.meetup.com/DCAndroid/). No cash or other prize substitution shall be permitted except at [DCAndroid Meetup Group's](https://www.meetup.com/DCAndroid/) discretion. The prize is nontransferable. Any and all prize-related expenses, including without limitation any and all federal, state, and/or local taxes, shall be the sole responsibility of Winner. No substitution of prize or transfer/assignment of prize to others or request for the cash equivalent by Winner is permitted. Acceptance of prize constitutes permission for [DCAndroid Meetup Group](https://www.meetup.com/DCAndroid/) to use Winner’s name, likeness, and entry for purposes of advertising and trade without further compensation, unless prohibited by law.
+The Winner(s) of the contest (the “Winner”) will receive one *FREE* ticket to [AnDevCon DC in July 2017](http://www.andevcon.com/dc2017/registrationdetails). Actual/appraised value may differ at time of prize award. The specifics of the prize shall be solely determined by [DCAndroid Meetup Group](https://www.meetup.com/DCAndroid/). No cash or other prize substitution shall be permitted except at [DCAndroid Meetup Group's](https://www.meetup.com/DCAndroid/) discretion. The prize is nontransferable. Any and all prize-related expenses, including without limitation any and all federal, state, and/or local taxes, shall be the sole responsibility of Winner. No substitution of prize or transfer/assignment of prize to others or request for the cash equivalent by Winner is permitted. Acceptance of prize constitutes permission for [DCAndroid Meetup Group](https://www.meetup.com/DCAndroid/) to use Winner’s name, likeness, and entry for purposes of advertising and trade without further compensation, unless prohibited by law.
 
 Terms & Conditions: 
 ------------
