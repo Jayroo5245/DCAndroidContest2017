@@ -1,5 +1,5 @@
 # DCAndroidContest2017
-The [DCAndroid Meetup Group](https://www.meetup.com/DCAndroid/) is running a Twitter contest with a grand prize of one free ticket to AnDevCon DC in July 2017
+The [DCAndroid Meetup Group](https://www.meetup.com/DCAndroid/) is running a Twitter contest with a grand prize of one free ticket to [AnDevCon DC in July 2017](http://www.andevcon.com/dc2017/registrationdetails)
 
 Contest Rules:
 ------------
