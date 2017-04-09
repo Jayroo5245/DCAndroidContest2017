@@ -9,6 +9,7 @@ From April 7th 2017 until May 23rd 2017
 * Follow the [DCAndroid twitter account](https://twitter.com/DCAndroid)
 * Tweet something clever (Please) and include #DCAndroidContest, @DCAndroid and @AnDevCon in the body of the tweet. Obviously the more tweets you send the better.
 * Whichever twitter user gets the most tweets, likes and retweets will win a Free ticket to [AnDevCon DC in July 2017](http://www.andevcon.com/dc2017/registrationdetails). We will aggregate all tweets, likes and retweets so feel free to send as many as you like.
+* Verify that your tweets show up in the appropriate #DCAndroidContest hashtag here: https://twitter.com/hashtag/DCAndroidContest
 * Prizes must be claimed in person at the DCAndroid meetup in May 2017.
 
 Disclaimer:
@@ -16,7 +17,7 @@ Disclaimer:
 
 This contest is purely for educational and entertainment purposes. I hold no liability for what you do for this contest or what happens to you by being in this contest. Abusing contests *can* get you banned from Twitter.
 
-In addition **do not!** use any bots or other software to increase your tweets. If we think you are cheating, then you lose. Period. So just don't do it, we are here to have fun and learn cool stuff. 
+In addition **DO NOT!** use any bots or other software to increase your tweets. If we think you are cheating, then you lose. Period. So just don't do it, we are here to have fun and learn cool stuff. 
 
 Eligibility:
 ------------
